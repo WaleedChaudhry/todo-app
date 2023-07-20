@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b774d1df-56c0-4434-9b4a-092d2f02626d"
+      }
+    },
+    "owner": "waleedchaudhry12"
   }
 }
